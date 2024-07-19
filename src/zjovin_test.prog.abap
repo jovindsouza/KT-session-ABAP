@@ -7,3 +7,4 @@ REPORT ZJOVIN_TEST.
 
 
 write 'ABAPGIT KT session'.
+write 'ABAPGIT KT session 123'.
